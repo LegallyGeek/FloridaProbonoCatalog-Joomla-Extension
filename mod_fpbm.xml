@@ -16,6 +16,7 @@
         <fields name="params">
             <fieldset name="basic">
                 <field name="providerID" type="integer" default="-1" label="Your Provider ID" description="The ID provided to you by SavvySuit." first="-1" last="100" step="1" />
+                <field name="cohortID" type="integer" default="-1" label="Your Cohort ID" description="The ID provided to you by SavvySuit." first="-1" last="100" step="1" />
             </fieldset>
         </fields>
     </config>
