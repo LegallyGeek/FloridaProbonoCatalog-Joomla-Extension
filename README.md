@@ -10,7 +10,7 @@ This Joomla extension provides a way to embed the Florida Pro Bono Matters catal
 
 1.  Click "Florida Pro Bono Matters" to configure the module.
 
-1.  Under the "Module" tab, input your Provider ID and Cohort ID
+1.  Under the "Module" tab, input your Partner ID and Cohort ID
 
 1.  Under "Show Title" option, select "Hide"
 
@@ -24,4 +24,4 @@ This Joomla extension provides a way to embed the Florida Pro Bono Matters catal
 {loadmodule mod_fpbm,Florida Pro Bono Matters}
 ```
 
-### NOTE: The number used for "Cohort ID" and "Provider ID" will be provided by FPBM to relevant parties.
+### NOTE: The number used for "Cohort ID" and "Partner ID" will be provided by FPBM to relevant parties.
