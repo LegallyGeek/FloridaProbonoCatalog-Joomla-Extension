@@ -3,7 +3,7 @@ class ModFPBMHelper
 {  
     public static function getCatalog($params)
     {
-        $providerID = $params->get('providerID');
+        $partnerID = $params->get('partnerID');
         $cohortID = $params->get('cohortID');
         $darkMode = $params->get('darkMode');
 
