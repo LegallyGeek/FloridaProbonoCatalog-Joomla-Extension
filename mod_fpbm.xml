@@ -2,7 +2,7 @@
 <extension type="module" version="3.1.0" client="site" method="upgrade">
     <name>Florida Pro Bono Matters</name>
     <author>SavvySuit</author>
-    <version>0.2.3</version>
+    <version>0.2.4</version>
     <description>Places the FPBM catalog in an article.</description>
     <files>
         <filename>mod_fpbm.xml</filename>
