@@ -15,7 +15,7 @@
     <config>
         <fields name="params">
             <fieldset name="basic">
-                <field name="providerID" type="integer" default="-1" label="Your Provider ID" description="The ID provided to you by SavvySuit." first="-1" last="100" step="1" />
+                <field name="partnerID" type="integer" default="-1" label="Your Partner ID" description="The ID provided to you by SavvySuit." first="-1" last="100" step="1" />
                 <field name="cohortID" type="integer" default="-1" label="Your Cohort ID" description="The ID provided to you by SavvySuit." first="-1" last="100" step="1" />
                 <field name="darkMode" type="combo" label="Enable Dark Mode" description="Enable if your site has a dark theme." size="7" required="true">
                     <option value="false">false</option>
